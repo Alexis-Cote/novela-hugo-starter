@@ -1,9 +1,8 @@
 ---
 title: My big burger
-date: 2020-04-27
+date: 2020-10-12T22:00:00+00:00
 hero: "/images/0fc224f2-3d64-45ae-b7fc-e6c8557c27fd.png"
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
-  apps in the U.S, along with Uber, Lyft.
+excerpt: Le nouveau burger de BK fait ravage
 timeToRead: 8
 authors:
 - Dennis Brotzky
