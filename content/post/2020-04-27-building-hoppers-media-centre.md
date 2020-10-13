@@ -1,9 +1,9 @@
 ---
-title: My big burger
-date: 2020-10-12T22:00:00+00:00
-hero: "/images/0fc224f2-3d64-45ae-b7fc-e6c8557c27fd.png"
-excerpt: Le nouveau burger de BK fait ravage
-timeToRead: 8
+title: Mai Tai
+date: 2020-10-13T13:00:00+00:00
+hero: "/images/445f9bff-6508-4c0c-8eab-8a6d16aabcc4.jpeg"
+excerpt: Un mélange sucré pour démarrer la soirée
+timeToRead: 1
 authors:
 - Dennis Brotzky
 
