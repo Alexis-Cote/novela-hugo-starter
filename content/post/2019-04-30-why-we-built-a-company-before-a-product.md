@@ -1,14 +1,13 @@
 ---
-title: Why we built a company before building a product
-date: 2019-04-30
-hero: /images/hero-6.jpg
-excerpt: this is my excerpt
-timeToRead: 3
+title: Sex on the beach
+date: 2020-10-13T14:00:00+00:00
+hero: "/images/e9744116-84b8-4ca0-9300-3762b7a85b8b.jpeg"
+excerpt: Des fruits, des fruits, des fruits
+timeToRead: 1
 authors:
-  - Thiago Costa
+- Thiago Costa
 
 ---
-
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
