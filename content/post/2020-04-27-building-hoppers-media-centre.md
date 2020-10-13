@@ -1,7 +1,7 @@
 ---
-title: A story of why Forestry loves Hugo
+title: My big burger
 date: 2020-04-27
-hero: "/images/hero-3.jpg"
+hero: "/images/0fc224f2-3d64-45ae-b7fc-e6c8557c27fd.png"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
 timeToRead: 8
