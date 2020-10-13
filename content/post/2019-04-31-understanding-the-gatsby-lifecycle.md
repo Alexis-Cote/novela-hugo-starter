@@ -1,17 +1,16 @@
 ---
-title: Understanding the Gatsby lifecycle with Narative
-date: 2019-05-01
-hero: /images/hero-2.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
-timeToRead: 6
+title: Litchi Time
+date: 2020-10-13T14:00:00+00:00
+hero: "/images/8081b4b9-65da-4a46-b93d-a66019b1de96.jpeg"
+excerpt: Litchi pour la vie
+timeToRead: -5
 authors:
-  - Thiago Costa
-  - Dennis Brotzky
-  - Brad Tiller
-  - Mack Mansouri
+- Thiago Costa
+- Dennis Brotzky
+- Brad Tiller
+- Mack Mansouri
 
 ---
-
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere. In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere. In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
